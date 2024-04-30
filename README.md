@@ -2,8 +2,7 @@
 Todo app using Flask framework with sqlite database connectivity.
 
 
-![1](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/cc13117f-6839-434f-a38b-c18bccd48d3f)
-
+![1](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/7eb91219-1b3e-4ed2-adfd-9dc7f969e0b6)
 
 ![2](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/a106b066-bd6d-41c5-9299-69003f36099e)
 
