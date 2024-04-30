@@ -30,12 +30,25 @@ input[type="text"], input[type="submit"] {
     margin-top: 20px;
 
 }
+ table {
+    width: 100%;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+th {
+    background-color: brown;
+}
 input[type="submit"]{
     margin-top: 20px;
-    width: 150px;
-    height: 40px;
+    width: 100px;
+    height: 30px;
     background: #f1f0f0;
     border-radius: 10px;
     border-color: rgba(59, 55, 49, 0.93);
 }
+
 
