@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: sans-serif;
+    font-family: Calibri;
     background: coral;
 }
 .content{
@@ -9,17 +9,13 @@ body{
     margin-right: auto;
     text-align: center;
 }
-table {
-    width: 100%;
-    border-collapse: collapse;
+.LogoText{
+    font-size: 60px;
 }
-th, td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: left;
-}
-th {
-    background-color: brown;
+.Password,.Login{
+    font-size: 40px;
+    padding: 20px;
+    color: black;
 }
 .form-container {
     display: flex;
@@ -27,7 +23,19 @@ th {
     align-items: center;
 }
 input[type="text"], input[type="submit"] {
+    width: 100px;
+    height: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
     margin-top: 20px;
-    margin-right: 10px;
-    margin-left: 10px;
+
 }
+input[type="submit"]{
+    margin-top: 20px;
+    width: 150px;
+    height: 40px;
+    background: #f1f0f0;
+    border-radius: 10px;
+    border-color: rgba(59, 55, 49, 0.93);
+}
+
