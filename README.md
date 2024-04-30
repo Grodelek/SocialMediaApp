@@ -1,2 +1,2 @@
-# SocialMediaApp
-Social Media App Flask
+# Todo App
+Todo app in Flask
