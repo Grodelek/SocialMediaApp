@@ -1,5 +1,5 @@
-# Todo App
-Todo app using Flask framework with sqlite database connectivity.
+# To do App
+To do app using Flask framework with sqlite database connectivity.
 
 
 
