@@ -1,2 +1,2 @@
 # Todo App
-Todo app in Flask
+Todo app using Flask framework with sqlite database connectivity.
