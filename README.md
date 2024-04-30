@@ -2,11 +2,13 @@
 Todo app using Flask framework with sqlite database connectivity.
 
 
-![1](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/3bbad369-e6ac-4328-83db-1d56b3b1dd6c)
-![2](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/a106b066-bd6d-41c5-9299-69003f36099e)
 
-![3](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/8bbd1ce2-6494-4e4c-9f84-0f9e87770956)
+![1](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/b0ae9c09-65f9-4014-aacd-b342b2728ad1)
 
-![4](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/0ad9e2ad-1908-4b88-84af-d41e91bb33e8)
+![2](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/be8800d3-cea4-4ac9-b2c7-df8c44ef651f)
 
-![5](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/bcf856c1-cb97-49b6-81ab-8b054de68f2a)
+![3](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/eb0b00aa-f1e3-4406-b6a2-6e3449f869f2)
+
+![4](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/cc214e9d-fb6f-4e20-b44e-eeee5ec82597)
+
+![5](https://github.com/Grodelek/ToDoAppFlask/assets/98063447/8ae40237-088e-4397-9d2f-fd085f89f5d2)
