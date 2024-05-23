@@ -1,5 +1,5 @@
 # To do App
-To do app using Flask framework with sqlite database connectivity.
+Simple To-do-app using Flask framework with sqlite database connectivity.
 
 
 
